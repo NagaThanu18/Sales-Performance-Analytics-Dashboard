@@ -1,2 +1,7 @@
-# Sales-Report
-This project presents a dynamic Sales Report Dashboard designed to analyze and visualize key sales metrics over a specific time period. It offers detailed insights into business performance, helping stakeholders make data-driven decisions.
+Naga Thanmai-Data Analysis(Interactive Dashboard creation using Power BI)
+
+#Project Objective
+The objective of this project is to develop an interactive and insightful sales report dashboard that enables businesses to monitor, analyze, and interpret their sales data effectively. By transforming raw data into meaningful visualizations, the project aims to support strategic decision-making, identify performance trends, and uncover opportunities for revenue growth and process improvement.
+
+
+
