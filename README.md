@@ -26,9 +26,13 @@ The objective of this project is to develop an interactive and insightful sales 
 
 ## Process
 -Import Sales Data from Excel, SQL Server, or other data sources into Power BI.
+
 -Transform & Clean Data using Power Query to remove errors and format fields.
+
 -Create Data Model by defining relationships between tables and adding calculated columns/measures (DAX).
+
 -Design Interactive Dashboard with visuals like bar charts, slicers, and KPIs to present key sales insights.
+
 
 ## Dashboard
 ![Sales Report Image](https://github.com/user-attachments/assets/8a8e0844-2357-4502-9ed3-ce93f5b813e1)
