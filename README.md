@@ -40,10 +40,15 @@ The objective of this project is to develop an interactive and insightful sales 
 ## Project Insight
 
 -Black-colored products have the highest sales volume compared to other colors. 
+
 -The Bike category records the highest total sales among all product categories.
+
 -The South region leads in total sales compared to other regions.
+
 -Female customers contribute more to the total sales than male customers.
+
 -The report shows that the overall sum of profit is significantly positive.
+
 -The total order quantity and total sales volumes is significantly high.
 
 ## Final Conclusion
