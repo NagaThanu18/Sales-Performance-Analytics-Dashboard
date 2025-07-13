@@ -14,6 +14,7 @@ The objective of this project is to develop an interactive and insightful sales 
 -Which colour product sold more?
 -What is the total order quantity?
 -Category wise sum of sales.
+-Which gender contributes more to total sales?
 
 -Dashboard Interaction <a href="https://github.com/NagaThanu18/Sales-Report/blob/main/Sales%20Report%20Image.jpg">View Dashboard</a>
 
