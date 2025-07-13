@@ -25,4 +25,19 @@ The objective of this project is to develop an interactive and insightful sales 
 -Design Interactive Dashboard with visuals like bar charts, slicers, and KPIs to present key sales insights.
 
 ## Dashboard
-![Sales Report Image](https://github.com/user-attachments/assets/5cebbcb4-40ef-4395-838f-a1aa54161342)
+![Sales Report Image](https://github.com/user-attachments/assets/8a8e0844-2357-4502-9ed3-ce93f5b813e1)
+
+## Project Insight
+
+-Black-colored products have the highest sales volume compared to other colors. 
+-The Bike category records the highest total sales among all product categories.
+-The South region leads in total sales compared to other regions.
+-Female customers contribute more to the total sales than male customers.
+-The report shows that the overall sum of profit is significantly positive.
+-The total order quantity and total sales volumes is significantly high.
+
+## Final Conclusion
+
+The sales report provides valuable insights into overall business performance, highlighting key trends in product categories, customer preferences, and regional sales. High sales volume and profitability indicate strong market demand, with notable contributions from the Bike category, South region, and female customers. These findings can guide strategic decisions in inventory planning, targeted marketing, and resource allocation to drive continued growth and efficiency.
+
+
