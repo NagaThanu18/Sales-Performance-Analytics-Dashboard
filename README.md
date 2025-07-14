@@ -22,7 +22,7 @@ The objective of this project is to develop an interactive and insightful sales 
 
 -Which gender contributes more to total sales?
 
--Dashboard Interaction <a href="https://github.com/NagaThanu18/Sales-Report/blob/main/Sales%20Report%20Image.jpg">View Dashboard</a>
+-Dashboard Interaction <a href="https://github.com/NagaThanu18/Sales-Report/blob/main/Sales%20Analysis.pdf">View Dashboard</a>
 
 ## Process
 -Import Sales Data from Excel, SQL Server, or other data sources into Power BI.
@@ -35,7 +35,8 @@ The objective of this project is to develop an interactive and insightful sales 
 
 
 ## Dashboard
-![Sales Report Image](https://github.com/user-attachments/assets/8a8e0844-2357-4502-9ed3-ce93f5b813e1)
+![Sales Report Image](https://github.com/user-attachments/assets/eadcda38-3829-4ff4-b0f3-9ab0e96e4577)
+
 
 ## Project Insight
 
