@@ -40,7 +40,7 @@ The objective of this project is to develop an interactive and insightful sales 
 
 ## Project Insight
 
--Black-colored products have the highest sales volume compared to other colors. 
+-Black-coloured products have the highest sales volume compared to other colors. 
 
 -The Bike category records the highest total sales among all product categories.
 
